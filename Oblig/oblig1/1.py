@@ -21,3 +21,10 @@ plt.xlabel("Time [s]")
 plt.ylabel("Temperature [°C]")
 #plt.savefig("cuptemp.png", dpi = 400)
 plt.show()
+
+
+N = 0
+q = 0
+W = 
+kb = 1
+S = kb*np.log()
